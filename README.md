@@ -24,6 +24,23 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+<h1>Login</h1>
+
+<h1>Menambah pengguna</h1>
+
+<h1>mengubah data pengguna</h1>
+
+<h1>Login</h1>
+
+<h1>Mengambil data pengguna</h1>
+
+<h1>Presensi</h1>
+
+<h1>Melihat riwayat presensi</h1>
+
+<h1>Melihat Rekap Kehadiran Bulanan</h1>
+
+<h1>Analisis Tingkat Kehadiran</h1>
 
 ## Project setup
 
