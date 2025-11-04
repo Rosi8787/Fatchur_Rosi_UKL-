@@ -21,27 +21,25 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Fatchur Rosi_18_XI RPL 1
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 <h1>Login</h1>
-
+ <a href=""><img src="image/Login.png"/></a>
 <h1>Menambah pengguna</h1>
-
+<a href=""><img src="image/Register.png"/></a>
 <h1>mengubah data pengguna</h1>
-
-<h1>Login</h1>
-
+<a href=""><img src="image/changes.png"/></a>
 <h1>Mengambil data pengguna</h1>
-
+<a href=""><img src="image/Check.png"/></a>
 <h1>Presensi</h1>
-
+<a href=""><img src="image/Presensi.png"/></a>
 <h1>Melihat riwayat presensi</h1>
-
+<a href=""><img src="image/History.png"/></a>
 <h1>Melihat Rekap Kehadiran Bulanan</h1>
-
+<a href=""><img src="image/Recap.png"/></a>
 <h1>Analisis Tingkat Kehadiran</h1>
-
+<a href=""><img src="image/Analysis.png"/></a>
 ## Project setup
 
 ```bash
